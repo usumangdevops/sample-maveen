@@ -1,4 +1,4 @@
- @Library("saikrishnabellam/jenkinsshared.git") _
+ @Library("usumangdevops/jenkinsshared.git") _
     standardPipeline {
         projectName = "Project1"
         serverDomain = "Project1 Server Domain"
